@@ -1,2 +1,2 @@
-# algorithm-for-collision-detection
-how a collision happens
+# p5.play-boilerplate
+Boiler plate for p5.play
